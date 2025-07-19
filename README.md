@@ -26,3 +26,7 @@ A simple and elegant note-saving web application built using **Flask**, featurin
   - User-friendly feedback on actions
 
 
+✅ To run the localhost, run main.py
+
+
+
